@@ -1,0 +1,12 @@
+{
+  "name": "IMT2020_G11_PROJECT",
+  "displayName": "IMT2020_G11_PROJECT",
+  "expo": {
+    "name": "IMT2020_G11_PROJECT",
+    "slug": "IMT2020_G11_PROJECT",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
