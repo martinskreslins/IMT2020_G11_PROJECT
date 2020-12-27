@@ -9,7 +9,7 @@ import { FlatList, TextInput} from 'react-native-gesture-handler';
 
 let MyCity = "";
 function Home({navigation}){
-  const [value, onChangeText] = React.useState('Useless Placeholder');
+  const [value, onChangeText] = React.useState('Enter city here');
   return(
     
     <View style = {styles.container}>
